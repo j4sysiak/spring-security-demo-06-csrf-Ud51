@@ -11,7 +11,7 @@
 	<hr>
 	
 	<p>
-	Welcome to the luv2code company home page!
+	Welcome to the Jacek Sysiak company home page!
 	</p>
 	
 	<!-- Add a logout button -->
